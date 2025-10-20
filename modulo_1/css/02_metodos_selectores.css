@@ -1,0 +1,19 @@
+h1{
+    color:cyan;
+}
+.tipo_clase{
+    color:rgb(139, 0, 32);
+
+}
+#selector_id{
+    color:coral;
+}
+*{
+    margin: 0;
+}
+div p{
+    color: aquamarine;
+}
+ul > li{
+    color:rgb(0, 253, 97);    
+}

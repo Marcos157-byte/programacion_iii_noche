@@ -1,0 +1,26 @@
+.contenedor{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: center;
+    gap: 20px;
+    background-color: aqua;
+    padding: 20px;
+
+}
+.item{
+    background: rebeccapurple;
+    color: chocolate;
+    padding: 20px;
+    flex: 1 0 100px;
+    text-align: center;
+    border-radius: 8px;
+
+}
+especial{
+    align-items: center;
+    background-color: cornflowerblue;
+
+
+}
