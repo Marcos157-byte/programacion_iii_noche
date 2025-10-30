@@ -28,6 +28,8 @@ console.log(´Mayor igual que ${numero3}>=${numero4}=${numero3>=numero4}´);
 console.log(´Menor igual que ${numero3}<=${numero4}=${numero3<=numero4}´);
 
 console.log("OPERADORES LOGICOS");
+//const numero3="5";
+//const numero4=5;
 console.log(AND "Y" (${numero3}>={numero4} && ${numero3}<=${numero4})=(numero3>=numero4&&numero<=numero4));
 console.log(OR "O" (${numero3}>={numero4} && ${numero3}!=${numero4})=(numero3>=numero4&&numero!=numero4));
 console.log(! "Negacion" !($numero3)==$(numero4)={!(numero3=numero4)});

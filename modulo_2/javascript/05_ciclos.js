@@ -15,5 +15,5 @@ for(let i=0;i<=pais.length;i++){
 }
 
 for (let i=1;1<=5;i++){
-    console.log("Cuadrado de ${i} es ${i*i}");
+    console.log("Cuadrado de", ${i}  ${i*i});
 }

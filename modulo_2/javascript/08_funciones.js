@@ -39,4 +39,4 @@ function divicion(z,k=3){
     return z/k
 }
 console.log("La divicion es:",divicion(40,8));
-console.log("La divicion es: ",divicion(40));
+console.log("La divicion es: ",divicion(40)); 
