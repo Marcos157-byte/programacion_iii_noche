@@ -1,0 +1,23 @@
+.body{
+    height: 1000px;
+    position: relative;
+
+}
+.estatico{
+    background-color: aquamarine;
+    
+}
+.relativo{
+    background-color: blueviolet;
+    position: relative;
+    top: relative;
+    bottom: 20px;
+    left: 20px;
+}
+.fijo{
+    background-color: brown;
+    color: blanchedalmond;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+}
